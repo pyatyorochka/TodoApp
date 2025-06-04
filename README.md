@@ -1,2 +1,21 @@
-# TodoApp
-TodoApp is a minimalist task manager written in C++ using Qt6. It allows you to add tasks, edit them and customize app
+# Приложение, в котором можно создавать задачи.
+
+## Функции
+- Список задач
+- Теги
+- Форматирование текста
+
+## Установка зависимостей
+1. Python
+3. Перейдите в каталог с проектом:
+   ```
+   cd путь
+   ```
+3. Установите зависимости:
+   ```
+   pip install -r requirements.txt
+   ```
+4. Запустите:
+   ```
+   python main.py
+   ```
